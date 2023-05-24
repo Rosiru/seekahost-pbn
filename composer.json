@@ -1,0 +1,19 @@
+{
+    "name": "seekahost/pbn",
+    "description": "This is for seekahost pbn config",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rosiru Jayasooriya",
+            "email": "ashdefearaj767@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Seekahost\\Pbn\\": "src/"
+        }
+    }
+}
