@@ -15,5 +15,12 @@
         "psr-4": {
             "Seekahost\\Pbn\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Seekahost\\Pbn\\PbnServiceProvider"
+            ]
+        }
     }
 }
